@@ -1,5 +1,7 @@
 ```py
 from colorama import Fore, init
+
+
 init()
 
 def hello():
