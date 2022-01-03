@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Mini-Kaccel#6955" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68586131/147944580-011f0c3a-9d2c-4ef3-bb86-568e8e4e7a90.png" alt="Mini-Kaccel#6955" height="30" width="40" /></a>
+<a href="https://discord.gg/Mini-Kaccel#6955" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68586131/147944644-c18b2513-a162-454c-bd17-c639a1fcfff2.png" alt="Mini-Kaccel#6955" height="30" width="40" /></a>
 <a href="https://discord.gg/Mini-Kaccel#6955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mini-Kaccel#6955" height="30" width="40" /></a>
 </p>
 
